@@ -47,15 +47,17 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="./static/images/desktop-v-homepage.jpg" alt="homepage" width="200"/>
-<img src="./static/images/desktop-v-create-todo.jpg" alt="create-todo" width="200"/>
-<img src="./static/images/desktop-v-update-todo.jpg" alt="update-todo" width="200"/>
-<img src="./static/images/desktop-v-delete-todo.jpg" alt="delete-todo" width="200"/>
-<img src="./static/images/desktop-v-search.jpg" alt="search" width="200"/>
-<img src="./static/images/desktop-v-login.jpg" alt="login" width="200"/>
-<img src="./static/images/desktop-v-register.jpg" alt="register" width="200"/>
-<img src="./static/images/desktop-v-user-update.jpg" alt="user-update" width="200"/>
-<img src="./static/images/mobile-v-homepage.jpg.jpg" alt="mobile" width="200"/>
+<p float="left">
+  <img src="./static/images/desktop-v-homepage.jpg" alt="homepage" width="200"/>
+  <img src="./static/images/desktop-v-create-todo.jpg" alt="create-todo" width="200"/>
+  <img src="./static/images/desktop-v-update-todo.jpg" alt="update-todo" width="200"/>
+  <img src="./static/images/desktop-v-delete-todo.jpg" alt="delete-todo" width="200"/>
+  <img src="./static/images/desktop-v-search.jpg" alt="search" width="200"/>
+  <img src="./static/images/desktop-v-login.jpg" alt="login" width="200"/>
+  <img src="./static/images/desktop-v-register.jpg" alt="register" width="200"/>
+  <img src="./static/images/desktop-v-user-update.jpg" alt="user-update" width="200"/>
+  <img src="./static/images/mobile-v-homepage.jpg.jpg" alt="mobile" width="200"/>
+</p>
 
 ### Links
 
