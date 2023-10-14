@@ -56,7 +56,7 @@ Users should be able to:
   <img src="./static/images/desktop-v-login.jpg" alt="login" width="200"/>
   <img src="./static/images/desktop-v-register.jpg" alt="register" width="200"/>
   <img src="./static/images/desktop-v-user-update.jpg" alt="user-update" width="200"/>
-  <img src="./static/images/mobile-v-homepage.jpg.jpg" alt="mobile" width="200"/>
+  <img src="./static/images/mobile-v-homepage.jpg" alt="mobile" width="200"/>
 </p>
 
 ### Links
